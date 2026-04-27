@@ -6,18 +6,29 @@ from graph.state import HamletState
 
 SCENES = [
     {
-        "title": "Scene I — The Ghost reveals the wound",
-        "objective": "The Ghost tells Hamlet that Denmark is poisoned by murder and betrayal.",
-        "speakers": ["ghost", "hamlet"],
+        "title": "Scena I — Duch na murach Elsynoru",
+        "objective": (
+            "Duch sugeruje Hamletowi, że śmierć starego króla nie była naturalna. "
+            "Hamlet nie dostaje wygodnego raportu — dostaje ranę, podejrzenie i obowiązek."
+        ),
+        "speakers": ["ghost", "hamlet", "ghost", "hamlet"],
     },
     {
-        "title": "Scene II — Hamlet tests the King",
-        "objective": "Hamlet speaks with Claudius, hiding accusation beneath wit and grief.",
-        "speakers": ["hamlet", "claudius"],
+        "title": "Scena II — Hamlet bada Klaudiusza",
+        "objective": (
+            "Hamlet rozmawia z Klaudiuszem na dworze. "
+            "Nie oskarża go wprost, lecz sprawdza reakcje przez ironię, aluzje i dwuznaczności. "
+            "Klaudiusz próbuje zachować spokój i kontrolę."
+        ),
+        "speakers": ["hamlet", "claudius", "hamlet", "claudius", "hamlet"],
     },
     {
-        "title": "Scene III — The pressure rises",
-        "objective": "Hamlet resolves to turn suspicion into a theatrical trap.",
+        "title": "Scena III — Plan teatralnej pułapki",
+        "objective": (
+            "Hamlet jest sam. W krótkim monologu musi wspomnieć aktorów, scenę albo przedstawienie. "
+            "Postanawia przygotować sztukę podobną do śmierci króla, aby obserwować reakcję Klaudiusza. "
+            "Nie mówi wprost o zemście. Nie mówi do Klaudiusza."
+        ),
         "speakers": ["hamlet"],
     },
 ]
@@ -25,30 +36,65 @@ SCENES = [
 
 def prepare_scene(state: HamletState) -> HamletState:
     scene = SCENES[state["scene_index"]]
+    print(f"[scene] Preparing: {scene['title']}")
 
     return {
         **state,
         "current_scene": scene["title"],
         "dialogues": [
             *state["dialogues"],
-            f"\n## {scene['title']}\n\n_Objective: {scene['objective']}_\n",
+            f"\n## {scene['title']}\n\n_Cel sceny: {scene['objective']}_\n",
         ],
     }
+
+
+def get_recent_dialogue_context(
+    scene_dialogue_context: list[str],
+    limit: int = 2,
+) -> str:
+    recent = scene_dialogue_context[-limit:]
+
+    if not recent:
+        return "To początek sceny. Nie padły jeszcze żadne kwestie."
+
+    return "\n\n".join(recent)
+
+
+def append_dialogue(dialogues: list[str], response: str) -> list[str]:
+    """
+    Na razie NIE usuwamy duplikatów.
+    Chcemy zobaczyć realny output modelu, a nie przypadkiem wycinać treść.
+    """
+    cleaned = response.strip()
+
+    if not cleaned:
+        cleaned = "(Brak odpowiedzi modelu.)"
+
+    return [*dialogues, f"\n{cleaned}\n"]
 
 
 def run_scene_dialogue(state: HamletState) -> HamletState:
     scene = SCENES[state["scene_index"]]
     new_dialogues = list(state["dialogues"])
+    scene_dialogue_context: list[str] = []
 
     for speaker in scene["speakers"]:
+        print(f"[agent] Running: {speaker}")
+
+        dialogue_context = get_recent_dialogue_context(scene_dialogue_context)
+
         response = run_character_agent(
             model_name=state["model_name"],
             character=speaker,
             memory=state["memory"],
             objective=scene["objective"],
+            dialogue_context=dialogue_context,
         )
 
-        new_dialogues.append(f"**{speaker.title()}**:\n\n{response}\n")
+        print(f"[agent] Done: {speaker}")
+
+        new_dialogues = append_dialogue(new_dialogues, response)
+        scene_dialogue_context.append(response)
 
     return {
         **state,
@@ -58,23 +104,31 @@ def run_scene_dialogue(state: HamletState) -> HamletState:
 
 def summarize_scene(state: HamletState) -> HamletState:
     scene = SCENES[state["scene_index"]]
-    scene_dialogue = "\n".join(state["dialogues"])
+    print(f"[narrator] Summarizing: {scene['title']}")
+
+    current_scene_marker = f"## {scene['title']}"
+    all_dialogues = "\n".join(state["dialogues"])
+
+    if current_scene_marker in all_dialogues:
+        current_scene_dialogue = all_dialogues.split(current_scene_marker, maxsplit=1)[-1]
+    else:
+        current_scene_dialogue = all_dialogues
 
     summary = run_narrator_agent(
         model_name=state["model_name"],
         scene=scene["title"],
         memory=state["memory"],
-        dialogues=scene_dialogue,
+        dialogues=current_scene_dialogue,
     )
 
-    updated_memory = f"{state['memory']}\n\nAfter {scene['title']}:\n{summary}"
+    updated_memory = f"{state['memory']}\n\nPo {scene['title']}:\n{summary}"
 
     return {
         **state,
         "memory": updated_memory,
         "summaries": [
             *state["summaries"],
-            f"\n### Narrator summary after {scene['title']}\n\n{summary}\n",
+            f"\n### Podsumowanie narratora po: {scene['title']}\n\n{summary}\n",
         ],
     }
 
