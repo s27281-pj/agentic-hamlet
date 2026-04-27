@@ -21,9 +21,9 @@ def main() -> None:
         "scene_index": 0,
         "current_scene": "",
         "memory": (
-            "Old King Hamlet is dead. Claudius has taken the throne and married Gertrude. "
-            "Hamlet is grieving, suspicious, and alienated from the court. "
-            "The Ghost may reveal hidden truth, but its nature is uncertain."
+            "Stary król Hamlet nie żyje. Klaudiusz objął tron i poślubił Gertrudę. "
+            "Hamlet jest pogrążony w żałobie, podejrzliwy i wyobcowany na dworze. "
+            "Nie ma jeszcze dowodu. Ma tylko niepokój, obserwacje i możliwość spotkania z Duchem."
         ),
         "dialogues": [],
         "summaries": [],

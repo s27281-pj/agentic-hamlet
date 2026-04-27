@@ -3,51 +3,65 @@
 ## Generated Dramatic Scenes
 
 
-## Scene I — The Ghost reveals the wound
+## Scena I — Duch na murach Elsynoru
 
-_Objective: The Ghost tells Hamlet that Denmark is poisoned by murder and betrayal._
-
-**Ghost**:
-
-Słuchaj, synu. Czym jest to, co widzę? Niechaj cię ogarnia ta wiedza, zanim zgaśnie twoja wiara.
-
-Nie umarłem spokojnie. Zginąłem w straszliwym mroku, a ty, którego mi serce było bliskie, zostałeś zdradzony przez tych, których uważałeś za swoich. To nie była zwykła śmierć. To było zatrucie, zbrodnia i potworna zdrada, które spłynęły na ten kraj.
-
-Krew przelała się na bruk, a tron został skażony przez zdradę i grzech. Ten, który zasiada teraz na tronie, jest trucicielem. Całe Dania jest skażone. Wasza rodzina jest trucizną. Musisz to zrozumieć. Musisz wiedzieć, kto jest winny i jak odwrócić to okrutne zło. To jest powód, dla którego przybyłem.
-
-**Hamlet**:
-
-O, duchu, jakże ciężkie słowa te wbijają się w moje serce! Czyżby całe to królestwo, które wczoraj było cieniem mojego ojca, było tylko fasadą, skażoną trucizną? Zdrada i morderstwo... Czyż nie jest to gorsze niż śmierć samego króla?
-
-Wszystko, co widziałem, wszystko, co czułem, wydaje się teraz pyłem i cieniem, zmywanym przez tę ohydną prawdę. Czy to oznacza, że każdy oddech w zamku jest trucizną? Czy ta zdrada rozlała się tak głęboko, że nawet miłość i cnoty są tylko słodkim atramentem na gnijącym papierze?
-
-Co mam teraz zrobić z tą wiedzą? Czy mam wziąć miecz i zmierzyć się z tym złem, czy też tkwić w tym mroku, pozwalając, by rozkład trwał, a ja sam stawałem się kolejnym cieniem? Nie wiem. Po prostu nie wiem.
+_Cel sceny: Duch sugeruje Hamletowi, że śmierć starego króla nie była naturalna. Hamlet nie dostaje wygodnego raportu — dostaje ranę, podejrzenie i obowiązek._
 
 
-## Scene II — Hamlet tests the King
-
-_Objective: Hamlet speaks with Claudius, hiding accusation beneath wit and grief._
-
-**Hamlet**:
-
-(Hamlet, stojąc przed Claudiuszem, jego głos jest chłodny, przesiąknięty żalem, ale ukryty pod warstwą cynicznej inteligencji.)
-
-"Ach, jakże słodkie jest to, co widzimy. Jakże piękna jest ta nowa korona, którą nosisz, obdarzona krwią, której nie zasługuje. Czyż nie jest to najdoskonalszy dowód na to, że zło ma w sobie najczystszy, najbardziej podstępny urok? Widzę w tobie nie tylko władcę, lecz cieniem, który przybrał szlachetne oblicze. Wszystko, co widzę, jest jak atrament, który spływa po gnijącym papierze – piękny, lecz obrzydliwy. Czyż nie jest to najgorsza zdrada? Że mrok zakrył światło, a miłość zamieniła się w truciznę? Nie wiem, czy żal jest wystarczającym orężem, by przebić tę fasadę, czy może tylko pogłębić tę otchłań. W tej ciszy, Panie, słyszę tylko szum rozkładu, a w nim, strasznie, słyszę prawdę."
-
-**Claudius**:
-
-Ach, Hamletie. Jakże ciężkie są te słowa, jakże gorzkie jest to, co słyszę. Niechaj cię nie przytłacza ta mroczna prawda, lecz pamiętaj, że los jest okrutny, a prawda często jest bardziej płynna niż stal. Czyż nie jest tak, że musimy zmierzyć się z tym, co się stało, bez możliwości odwrócenia koła czasu? Ja sam czuję ciężar tego tronu, a to, co działo się w przeszłości, jest jak cień, który nie chce ustąpić. Ból jest niezmierny, a odpowiedzialność... odpowiedzialność jest ciężarem, którego nie da się po prostu odrzucić. Musimy znaleźć drogę, choćby w tym chaosie, by przetrwać.
+Duch:
+Noc jest zimna, a powietrze dusi. 
+W moich żyłach wciąż płynie jadowity sen, który wdarł się do ucha w ogrodzie. 
+Patrz na nich, Hamlet, i poczuj ten niepokój, bo krew nie daje mi spocząć. 
+Twoim jedynym zadaniem jest szukać prawdy w mroku.
 
 
-## Scene III — The pressure rises
+Hamlet:
+Jadowity sen... Czyżby więc nawet cisza w komnatach nie jest już bezpieczna przed szeptem trucizny? Widzę, jak blask świec drży na ścianach, jakby sam mrok bał się własnego odbicia w tym dworze. Czy to możliwe, by pod tą złotą koroną i uprzejmym gestem kielicha kryło się coś, co nie jest jedynie ciężarem korony, lecz raną, której nie widać? Skoro krew nie zaznała spokoju, muszę bacznie śledzić każdy krok i każde spojrzenie, aż prawda wyłoni się z cienia, choćby miała spalić mnie na popiół.
 
-_Objective: Hamlet resolves to turn suspicion into a theatrical trap._
 
-**Hamlet**:
+Duch:
+Nie szukaj światła, lecz cienia. 
+W tym samym uchu, gdzie spłynęła śmierć, wciąż pulsuje zdrada. 
+Zabij go, lecz nie dotykaj matki. 
+To twój ciężar.
 
-Cisza. Czyż to jest koniec? Czy ta wiedza, ten ciężar trucizny, który wlewa się w każdą żyłę królestwa, musi być jedynie cichym, gnijącym papierem, na którym piszę swe rozpaczy? Nie mogę działać po prostu. Jakże mam postawić czyn przeciwko czemuś tak wielkiemu i skażonemu?
 
-Lecz jeśli świat jest już skażony, a prawda jest trucizną, to może zbrodnia stanie się teatrem. Moje wątpliwości, te cienie, które nie potrafię wyśledzić, muszą stać się narzędziem. Pozwolę im rosnąć. Niech podejrzliwość stanie się zasłoną dymną. Niech ten mrok otoczy ich, a ja będę tym, co w nim dryfuje – nie działacz, lecz aktor w grze, gdzie zło jest scenografią. Może tylko w tej sztuce, w tej farsie, znajdę jeszcze jakąś formę sprawiedliwości.
+Hamlet:
+Cień, który rzucasz, jest cięższy niż całun, pod którym spoczywa mój ojciec. Czy mam więc stać się jedynie sędzią w teatrze, gdzie każda maska wydaje się zbyt ciasna, a każdy szept zbyt głośny w tej martwej ciszy sali? Jeśli zdrada pulsuje w tym samym uchu, co niegdyś słowa ukojenia, to nawet najsłodsze wino w kielichu może smakować jak popiół. Pozostaje mi tylko patrzeć, jak blask świec gaśnie nad prawdą, której nie wolno mi jeszcze nazwać, lecz której nie mogę już dłużej ignorować.
+
+
+## Scena II — Hamlet bada Klaudiusza
+
+_Cel sceny: Hamlet rozmawia z Klaudiuszem na dworze. Nie oskarża go wprost, lecz sprawdza reakcje przez ironię, aluzje i dwuznaczności. Klaudiusz próbuje zachować spokój i kontrolę._
+
+
+Hamlet:
+Witajcie w tym radosnym blasku, który tak pięknie rozświetla mroki naszej niedawnej żałoby. Czyż ten złocisty kielich, trzymany tak pewnie w Pańskiej dłoni, nie wydaje się Państwu dziwnie ciężki, jakby skrywał w sobie coś więcej niż tylko słodkie wino? Patrzę na ten dwór i widzę jedynie lśniące maski, pod którymi nawet najczystszy oddech może skrywać szept trucizny. Czy w tym tańcu cieni, pośród śmiechu i dworskiej uprzejmości, można jeszcze odnaleźć prawdę, czy może jesteśmy już tylko aktorami w sztuce, której zakończenie zostało napisane przez kogoś, kto dawno już zamilkł?
+
+
+Klaudiusz:
+Mój drogi Hamlecie, twoje słowa, choć malownicze, niosą ze sobą niepokojący ciężar, który nie przystoi komuś w twoim wieku. Ten kielich zawiera jedynie wino, a mój jedyny ciężar to troska o stabilność królestwa i zachowanie porządku, który tak mozolnie odbudowujemy po dniach smutku. Widzę, że żałoba wciąż mąci twój jasny umysł, skłaniając cię do szukania grozy tam, gdzie panuje jedynie dworska etykieta i obowiązek. Pragnę, abyś odnalazł spokój, gdyż ta nadmierna czujność i skłonność do mrocznych metafor mogą jedynie ranić serce twojej matki. Skupmy się na powinnościach, które łączą nas wszystkich, zamiast błądzić w labiryncie własnych, nieuzasadnionych lęków.
+
+
+Hamlet:
+Więc to jedynie wino, a moja czujność to tylko cień rzucany przez zbyt długą noc? Skoro jednak troska o porządek jest Pańskim jedynym brzemieniem, to doprawdy, jakże niezwykła jest ta lekkość, z jaką koronę dzierży dłoń tak mocno trzymająca kielich. Może i błądzę w labiryncie, lecz nawet w mroku dostrzegam, że każda świeca, która płonie zbyt jasno, rzuca podejrzanie długie cienie na tron. Niech więc trwa ta nasza wspólna powinność, póki jednak nie upewnię się, czy w tym spektaklu, który wspólnie odgrywamy, role zostały przypisane sprawiedliwie, czy też jakiś nieznany reżyser nie dopisał nam tragicznego zwrotu akcji.
+
+
+Klaudiusz:
+Twoje porównania, choć pełne dramatycznego polotu, zdają się być jedynie owocem zbyt głębokiej melancholii, która nie pozwala ci dostrzec jasności dnia. Na tym dworze, gdzie każdy gest i każda ceremonia muszą służyć trwałości korony, nie ma miejsca na poszukiwanie ukrytych reżyserów czy spisków. Moim jedynym zadaniem jest dbałość o to, by straże na murach Elsynoru czuwały nad spokojem, a nie byśmy w salonach szukali cieni tam, gdzie ich nie ma. Proszę cię, odłóż te mroczne wizje i powróć do obowiązków, które wymagają od ciebie jasności umysłu, a nie podejrzliwości. Nie pozwól, by Twoja własna wyobraźnia stała się Twoim największym wrogiem i raniła godność tego dworu.
+
+
+Hamlet:
+Jasność umysłu, o którą Pan prosi, bywa czasem najbardziej zdradliwym z narzędzi, gdyż potrafi dostrzec jedynie to, co oświetla płomień, ignorując to, co czai się w mroku pod stopami. Skoro jednak straże mają czuwać jedynie nad spokojem murów, czy można przypuszczać, że prawdziwe niebezpieczeństwo nie przychodzi z zewnątrz, lecz drzemie w samym sercu sali, w ciszy między uderzeniami serca? Może i moja wyobraźnia jest wrogiem, lecz czyż nie jest ona jedyną rzeczą, która potrafi odróżnić prawdziwą koronę od złudnego blasku, który mami oczy dworzan? Proszę mi wybaczyć tę chwilę niepokoju, lecz kiedy widzę, jak dłoń władcy tak pewnie sięga po kielich, trudno mi nie zastanawiać się, czy w tym spektaklu nie brakuje nam jedynie szczerego spojrzenia, które nie bałoby się własnego odbicia.
+
+
+## Scena III — Plan teatralnej pułapki
+
+_Cel sceny: Hamlet jest sam. W krótkim monologu musi wspomnieć aktorów, scenę albo przedstawienie. Postanawia przygotować sztukę podobną do śmierci króla, aby obserwować reakcję Klaudiusza. Nie mówi wprost o zemście. Nie mówi do Klaudiusza._
+
+
+Hamlet:
+Cienie w tej sali zdają się gęstnieć, jakby sama prawda nie mogła znieść blasku świec. Skoro jednak słowa widma mogą zatruć spokojny sen, muszę stworzyć lustro, w którym odbije się nie tylko twarz aktora, lecz i sumienie samego dworu. Przygotuję przedstawienie, spektakl tak wierny rzeczywistości, by każda gest i każda scena stały się pułapką na ukrytą winę. Niech te sztuczne dramaty wyryją prawdę na obliczu tych, którzy zbyt chętnie piją ze złotego kielicha. W tej grze pozorów tylko prawda, uwięziona w teatrze, zdoła przetrwać mrok Elsynoru.
 
 
 ---
@@ -55,124 +69,92 @@ Lecz jeśli świat jest już skażony, a prawda jest trucizną, to może zbrodni
 ## Narrator / State Updates
 
 
-### Narrator summary after Scene I — The Ghost reveals the wound
+### Podsumowanie narratora po: Scena I — Duch na murach Elsynoru
 
-**Podsumowanie sceny**
+- Krótkie podsumowanie sceny:
+Duch objawia się Hamletowi, sugerując, że śmierć starego króla była wynikiem podania trucizny do ucha. Nakłada na Hamleta obowiązek odkrycia prawdy oraz dokonania zemsty, jednocześnie zakazując mu skrzywdzenia matki. Hamlet przyjmuje to wyzwanie, deklarując gotowość do śledzenia cieni i tropienia zdrady.
 
-**scene summary**
-Duch ujawnia Hamletowi, że śmierć króla Hamleta nie była naturalna, lecz wynikiem morderstwa i zdrady. Odkrywa, że tron i całe królestwo Danii są skażone trucizną, a obecny władca (Claudiusz) jest winny. Hamlet jest świadkiem tej okrutnej prawdy, która obala jego dotychczasowe postrzeganie rzeczywistości.
+- Zmiana relacji:
+Relacja między Duchem a Hamletem zostaje sformalizowana poprzez przekazanie misji; Duch staje się powiernikiem tajemnicy i katalizatorem działania, a Hamlet – wykonawcą woli zmarłego.
 
-**new facts learned**
-*   Król Hamlet zmarł w wyniku morderstwa i zatrucia.
-*   Claudiusz jest mordercą i trucicielem, który przejął tron.
-*   Całe królestwo Danii jest skażone grzechem i zdradą.
-*   Rodzina królewska jest źródłem tego zła.
+- Podejrzenia lub ukrycia postaci:
+Duch wskazuje na istnienie zdrady i trucizny, co bezpośrednio rzuca cień podejrzenia na obecną sytuację na dworze. Hamlet zaczyna postrzegać otoczenie jako pełne masek i ukrytych zagrożeń, w których nawet przedmioty codziennego użytku (jak kielich) mogą kryć śmierć.
 
-**emotional state changes**
-*   **Hamlet:** Przechodzi od głębokiego żalu i podejrzeń do egzystencjalnego rozpaczy i paraliżu. Jego poczucie rzeczywistości zostaje zburzone; wątpliwości i miłość stają się jedynie "słodkim atramentem na gnijącym papierze". Odczuwa przytłaczającą świadomość skali zła.
-
-**next dramatic pressure**
-Hamlet zostaje skonfrontowany z niemożliwym wyborem: czy zmierzyć się z okrutnym złem i podjąć działanie, czy też pozostać w mroku, akceptując rozkład, stając się kolejnym cieniem. Dramatyczna presja koncentruje się na konieczności podjęcia decyzji i przejściu od refleksji do działania.
+- Następne napięcie dramatyczne:
+Napięcie koncentruje się wokół konieczności weryfikacji słów Ducha oraz ciężaru moralnego wynikającego z nakazu zemsty przy jednoczesnym zachowaniu niewinności matki.
 
 
-### Narrator summary after Scene II — Hamlet tests the King
+### Podsumowanie narratora po: Scena II — Hamlet bada Klaudiusza
 
-**podsumowanie sceny**
+- Krótkie podsumowanie sceny:
+Hamlet konfrontuje się z Klaudiuszem, używając metafor i aluzji dotyczących trucizny oraz mroku, aby sprawdzić reakcję nowego króla. Klaudiusz odpiera te ataki, przypisując mroczne wizje Hamleta jego własnej melancholii i niezdrowej wyobraźni, jednocześnie apelując o zachowanie spokoju i skupienie się na obowiązkach wobec królestwa.
 
-**scene summary**
-Hamlet, w rozmowie z Claudiuszem, wyraża swoje głębokie poczucie zdrady i rozkładu moralnego, używając metafory o truciznie i gnijącym papierze, by opisać stan królestwa. Claudius odpowiada, akceptując ciężar odpowiedzialności i niemożność odwrócenia przeszłości, co podkreśla niemożność ucieczki od zła.
+- Zmiana relacji:
+Relacja między Hamletem a Klaudiuszem staje się jawnie napięta i pełna wzajemnej nieufności. Choć rozmowa odbywa się w ramach dworskiej etykiety, między rozmówcami narasta konflikt między Hamletem, który przyjmuje rolę oskarżyciela, a Klaudiuszem, który przyjmuje rolę obrońcy porządku i stabilności.
 
-**new facts learned**
-*   Prawda o morderstwie i skażeniu królestwa jest potwierdzona jako fundamentalny problem, który musi być zaakceptowany.
-*   Konflikt przenosi się z zewnętrznej prawdy (Duch) do wewnętrznego dylematu (Hamlet), gdzie zło jest przedstawione jako nieunikniony stan.
-*   Claudius przyjmuje rolę uwikłanego w ciężar winy władcy, co ustanawia go jako postać obciążoną moralnie.
+- Podejrzenia lub ukrycia postaci:
+Hamlet otwarcie sugeruje, że pod maską dworskiej uprzejmości i radosnego świętowania może kryć się zdrada, a przedmioty codziennego użytku (kielich) mogą skrywać zagrożenie. Klaudiusz ukrywa swoje intencje pod płaszczem troski o państwo i stabilność korony, starając się zdyskredytować podejrzliwość Hamleta jako objaw choroby psychicznej lub nadmiernej żałoby.
 
-**emotional state changes**
-*   **Hamlet:** Jego żal i podejrzliwość przekształcają się w intelektualną, lecz przytłaczającą świadomość rozkładu. Przechodzi od emocjonalnego bólu do refleksji nad niemożnością działania w obliczu skali zła.
-*   **Claudius:** Odczuwa ciężar odpowiedzialności i beznadzieję. Jego reakcja jest mieszanką gorzkiej świadomości winy i poczucia uwięzienia w przeszłości.
-
-**next dramatic pressure**
-Konfrontacja z prawdą jest już zakończona; dramatyczna presja przenosi się na Hamletowskie dylematy dotyczące działania. Konieczność podjęcia decyzji, czy zmierzyć się z tym złem poprzez działanie, czy pozostać w mroku, staje się jeszcze bardziej pilna. Skupienie dramatu przesuwa się z odkrycia zła na jego konsekwencje i potencjalną drogę wyjścia z niego.
+- Następne napięcie dramatyczne:
+Napięcie koncentruje się na nieuchronnym zderzeniu Hamletowskiej podejrzliwości z próbami uciszenia go przez Klaudiusza. Kluczowym punktem zapalnym pozostaje kwestia wiarygodności słów Ducha w obliczu prób przedstawienia Hamleta jako osoby niestabilnej emocjonalnie.
 
 
-### Narrator summary after Scene III — The pressure rises
+### Podsumowanie narratora po: Scena III — Plan teatralnej pułapki
 
-**podsumowanie sceny**
+- Krótkie podsumowanie sceny:
+Hamlet, pozostając w samotności, podejmuje decyzję o wykorzystaniu teatru jako narzędzia do weryfikacji prawdy. Planuje przygotować przedstawienie, którego treść będzie naśladować okoliczności śmierci starego króla, aby za pomocą sztucznego dramatu wywołać reakcję Klaudiusza i zmusić go do ujawnienia winy.
 
-**scene summary**
-Hamlet, skonfrontowany z niemożliwym dylematem działania w obliczu skażonego świata, odrzuca bezpośrednią konfrontację. Zamiast akceptować pasywną rozpaczy, postanawia przekształcić swoje wątpliwości i podejrzliwości w narzędzie. Decyduje się na strategię teatralną: pozwoli na rozkwit podejrzliwości, czyniąc z niej zasłonę dymną, a siebie – aktora w grze, gdzie zło jest scenografią.
+- Zmiana relacji:
+Relacja między Hamletem a Klaudiuszem pozostaje w sferze wewnętrznej strategii Hamleta; nie dochodzi do bezpośredniej interakcji, jednak Hamlet przestaje być jedynie biernym obserwatorem, a staje się architektem pułapki, która ma uderzyć w króla.
 
-**new facts learned**
-*   Hamlet rezygnuje z bezpośredniego, natychmiastowego działania na rzecz manipulacji.
-*   Podejrzliwość i mrok, zamiast być źródłem paraliżu, stają się narzędziem strategicznym.
-*   Hamlet przyjmuje rolę obserwatora i manipulatora, używając pozorów do ukrycia prawdziwych intencji.
-*   Zło (zbrodnia) jest traktowane jako element scenografii, który może być wykorzystany do osiągnięcia celu.
+- Podejrzenia lub ukrycia postaci:
+Hamlet ukrywa swój prawdziwy zamiar i plan działania przed otoczeniem, maskując chęć konfrontacji poprzez przygotowanie spektaklu. Wykorzystuje teatr jako narzędzie do stworzenia „lustra” dla sumienia dworu, co sugeruje, że każda postać może być częścią gry pozorów.
 
-**emotional state changes**
-*   **Hamlet:** Przechodzi od egzystencjalnego rozpaczy i paraliżu do zimnej, cynicznej kalkulacji. Jego wewnętrzny ból zostaje zamieniony w chłodną strategię. Odczuwa poczucie, że musi grać rolę, aby przetrwać lub osiągnąć sprawiedliwość.
-*   **Zło/Mrok:** Zło przestaje być jedynie przytłaczającą rzeczywistością, a staje się elementem, który można kontrolować i wykorzystać.
-
-**next dramatic pressure**
-Dramatyczna presja koncentruje się na konsekwencjach przyjętej strategii. Hamlet musi teraz zmierzyć się z ryzykiem, jakie niesie za sobą manipulowanie i grę w mrok. Presja przenosi się na konieczność utrzymania tej iluzji, oraz na potencjalne ryzyko, że jego plan doprowadzi do jeszcze większego chaosu lub autodestrukcji. Konieczność podjęcia decyzji o tym, jak wykorzystać tę sztukę, staje się kluczowa.
+- Następaste napięcie dramatyczne:
+Napięcie przesuwa się z obszaru niepewności i domysłów w stronę realizacji konkretnego planu. Kluczowym punktem dramatycznym staje się oczekiwanie na moment, w którym przygotowana sztuka zostanie wystawiona i czy wywoła ona zamierzony wstrząs u Klaudiusza.
 
 
 ---
 
 ## Final Memory State
 
-Old King Hamlet is dead. Claudius has taken the throne and married Gertrude. Hamlet is grieving, suspicious, and alienated from the court. The Ghost may reveal hidden truth, but its nature is uncertain.
+Stary król Hamlet nie żyje. Klaudiusz objął tron i poślubił Gertrudę. Hamlet jest pogrążony w żałobie, podejrzliwy i wyobcowany na dworze. Nie ma jeszcze dowodu. Ma tylko niepokój, obserwacje i możliwość spotkania z Duchem.
 
-After Scene I — The Ghost reveals the wound:
-**Podsumowanie sceny**
+Po Scena I — Duch na murach Elsynoru:
+- Krótkie podsumowanie sceny:
+Duch objawia się Hamletowi, sugerując, że śmierć starego króla była wynikiem podania trucizny do ucha. Nakłada na Hamleta obowiązek odkrycia prawdy oraz dokonania zemsty, jednocześnie zakazując mu skrzywdzenia matki. Hamlet przyjmuje to wyzwanie, deklarując gotowość do śledzenia cieni i tropienia zdrady.
 
-**scene summary**
-Duch ujawnia Hamletowi, że śmierć króla Hamleta nie była naturalna, lecz wynikiem morderstwa i zdrady. Odkrywa, że tron i całe królestwo Danii są skażone trucizną, a obecny władca (Claudiusz) jest winny. Hamlet jest świadkiem tej okrutnej prawdy, która obala jego dotychczasowe postrzeganie rzeczywistości.
+- Zmiana relacji:
+Relacja między Duchem a Hamletem zostaje sformalizowana poprzez przekazanie misji; Duch staje się powiernikiem tajemnicy i katalizatorem działania, a Hamlet – wykonawcą woli zmarłego.
 
-**new facts learned**
-*   Król Hamlet zmarł w wyniku morderstwa i zatrucia.
-*   Claudiusz jest mordercą i trucicielem, który przejął tron.
-*   Całe królestwo Danii jest skażone grzechem i zdradą.
-*   Rodzina królewska jest źródłem tego zła.
+- Podejrzenia lub ukrycia postaci:
+Duch wskazuje na istnienie zdrady i trucizny, co bezpośrednio rzuca cień podejrzenia na obecną sytuację na dworze. Hamlet zaczyna postrzegać otoczenie jako pełne masek i ukrytych zagrożeń, w których nawet przedmioty codziennego użytku (jak kielich) mogą kryć śmierć.
 
-**emotional state changes**
-*   **Hamlet:** Przechodzi od głębokiego żalu i podejrzeń do egzystencjalnego rozpaczy i paraliżu. Jego poczucie rzeczywistości zostaje zburzone; wątpliwości i miłość stają się jedynie "słodkim atramentem na gnijącym papierze". Odczuwa przytłaczającą świadomość skali zła.
+- Następne napięcie dramatyczne:
+Napięcie koncentruje się wokół konieczności weryfikacji słów Ducha oraz ciężaru moralnego wynikającego z nakazu zemsty przy jednoczesnym zachowaniu niewinności matki.
 
-**next dramatic pressure**
-Hamlet zostaje skonfrontowany z niemożliwym wyborem: czy zmierzyć się z okrutnym złem i podjąć działanie, czy też pozostać w mroku, akceptując rozkład, stając się kolejnym cieniem. Dramatyczna presja koncentruje się na konieczności podjęcia decyzji i przejściu od refleksji do działania.
+Po Scena II — Hamlet bada Klaudiusza:
+- Krótkie podsumowanie sceny:
+Hamlet konfrontuje się z Klaudiuszem, używając metafor i aluzji dotyczących trucizny oraz mroku, aby sprawdzić reakcję nowego króla. Klaudiusz odpiera te ataki, przypisując mroczne wizje Hamleta jego własnej melancholii i niezdrowej wyobraźni, jednocześnie apelując o zachowanie spokoju i skupienie się na obowiązkach wobec królestwa.
 
-After Scene II — Hamlet tests the King:
-**podsumowanie sceny**
+- Zmiana relacji:
+Relacja między Hamletem a Klaudiuszem staje się jawnie napięta i pełna wzajemnej nieufności. Choć rozmowa odbywa się w ramach dworskiej etykiety, między rozmówcami narasta konflikt między Hamletem, który przyjmuje rolę oskarżyciela, a Klaudiuszem, który przyjmuje rolę obrońcy porządku i stabilności.
 
-**scene summary**
-Hamlet, w rozmowie z Claudiuszem, wyraża swoje głębokie poczucie zdrady i rozkładu moralnego, używając metafory o truciznie i gnijącym papierze, by opisać stan królestwa. Claudius odpowiada, akceptując ciężar odpowiedzialności i niemożność odwrócenia przeszłości, co podkreśla niemożność ucieczki od zła.
+- Podejrzenia lub ukrycia postaci:
+Hamlet otwarcie sugeruje, że pod maską dworskiej uprzejmości i radosnego świętowania może kryć się zdrada, a przedmioty codziennego użytku (kielich) mogą skrywać zagrożenie. Klaudiusz ukrywa swoje intencje pod płaszczem troski o państwo i stabilność korony, starając się zdyskredytować podejrzliwość Hamleta jako objaw choroby psychicznej lub nadmiernej żałoby.
 
-**new facts learned**
-*   Prawda o morderstwie i skażeniu królestwa jest potwierdzona jako fundamentalny problem, który musi być zaakceptowany.
-*   Konflikt przenosi się z zewnętrznej prawdy (Duch) do wewnętrznego dylematu (Hamlet), gdzie zło jest przedstawione jako nieunikniony stan.
-*   Claudius przyjmuje rolę uwikłanego w ciężar winy władcy, co ustanawia go jako postać obciążoną moralnie.
+- Następne napięcie dramatyczne:
+Napięcie koncentruje się na nieuchronnym zderzeniu Hamletowskiej podejrzliwości z próbami uciszenia go przez Klaudiusza. Kluczowym punktem zapalnym pozostaje kwestia wiarygodności słów Ducha w obliczu prób przedstawienia Hamleta jako osoby niestabilnej emocjonalnie.
 
-**emotional state changes**
-*   **Hamlet:** Jego żal i podejrzliwość przekształcają się w intelektualną, lecz przytłaczającą świadomość rozkładu. Przechodzi od emocjonalnego bólu do refleksji nad niemożnością działania w obliczu skali zła.
-*   **Claudius:** Odczuwa ciężar odpowiedzialności i beznadzieję. Jego reakcja jest mieszanką gorzkiej świadomości winy i poczucia uwięzienia w przeszłości.
+Po Scena III — Plan teatralnej pułapki:
+- Krótkie podsumowanie sceny:
+Hamlet, pozostając w samotności, podejmuje decyzję o wykorzystaniu teatru jako narzędzia do weryfikacji prawdy. Planuje przygotować przedstawienie, którego treść będzie naśladować okoliczności śmierci starego króla, aby za pomocą sztucznego dramatu wywołać reakcję Klaudiusza i zmusić go do ujawnienia winy.
 
-**next dramatic pressure**
-Konfrontacja z prawdą jest już zakończona; dramatyczna presja przenosi się na Hamletowskie dylematy dotyczące działania. Konieczność podjęcia decyzji, czy zmierzyć się z tym złem poprzez działanie, czy pozostać w mroku, staje się jeszcze bardziej pilna. Skupienie dramatu przesuwa się z odkrycia zła na jego konsekwencje i potencjalną drogę wyjścia z niego.
+- Zmiana relacji:
+Relacja między Hamletem a Klaudiuszem pozostaje w sferze wewnętrznej strategii Hamleta; nie dochodzi do bezpośredniej interakcji, jednak Hamlet przestaje być jedynie biernym obserwatorem, a staje się architektem pułapki, która ma uderzyć w króla.
 
-After Scene III — The pressure rises:
-**podsumowanie sceny**
+- Podejrzenia lub ukrycia postaci:
+Hamlet ukrywa swój prawdziwy zamiar i plan działania przed otoczeniem, maskując chęć konfrontacji poprzez przygotowanie spektaklu. Wykorzystuje teatr jako narzędzie do stworzenia „lustra” dla sumienia dworu, co sugeruje, że każda postać może być częścią gry pozorów.
 
-**scene summary**
-Hamlet, skonfrontowany z niemożliwym dylematem działania w obliczu skażonego świata, odrzuca bezpośrednią konfrontację. Zamiast akceptować pasywną rozpaczy, postanawia przekształcić swoje wątpliwości i podejrzliwości w narzędzie. Decyduje się na strategię teatralną: pozwoli na rozkwit podejrzliwości, czyniąc z niej zasłonę dymną, a siebie – aktora w grze, gdzie zło jest scenografią.
-
-**new facts learned**
-*   Hamlet rezygnuje z bezpośredniego, natychmiastowego działania na rzecz manipulacji.
-*   Podejrzliwość i mrok, zamiast być źródłem paraliżu, stają się narzędziem strategicznym.
-*   Hamlet przyjmuje rolę obserwatora i manipulatora, używając pozorów do ukrycia prawdziwych intencji.
-*   Zło (zbrodnia) jest traktowane jako element scenografii, który może być wykorzystany do osiągnięcia celu.
-
-**emotional state changes**
-*   **Hamlet:** Przechodzi od egzystencjalnego rozpaczy i paraliżu do zimnej, cynicznej kalkulacji. Jego wewnętrzny ból zostaje zamieniony w chłodną strategię. Odczuwa poczucie, że musi grać rolę, aby przetrwać lub osiągnąć sprawiedliwość.
-*   **Zło/Mrok:** Zło przestaje być jedynie przytłaczającą rzeczywistością, a staje się elementem, który można kontrolować i wykorzystać.
-
-**next dramatic pressure**
-Dramatyczna presja koncentruje się na konsekwencjach przyjętej strategii. Hamlet musi teraz zmierzyć się z ryzykiem, jakie niesie za sobą manipulowanie i grę w mrok. Presja przenosi się na konieczność utrzymania tej iluzji, oraz na potencjalne ryzyko, że jego plan doprowadzi do jeszcze większego chaosu lub autodestrukcji. Konieczność podjęcia decyzji o tym, jak wykorzystać tę sztukę, staje się kluczowa.
+- Następaste napięcie dramatyczne:
+Napięcie przesuwa się z obszaru niepewności i domysłów w stronę realizacji konkretnego planu. Kluczowym punktem dramatycznym staje się oczekiwanie na moment, w którym przygotowana sztuka zostanie wystawiona i czy wywoła ona zamierzony wstrząs u Klaudiusza.

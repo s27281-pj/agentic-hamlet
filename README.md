@@ -140,3 +140,6 @@ v0.1 — working prototype
 Cyprian Czerwiński
 
 Built as an experiment in agent-based systems and LLM orchestration.
+
+Recommended model for quality: `gemma4:26b`  
+Faster model for local experimentation: `gemma4:e2b`
