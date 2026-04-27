@@ -1,0 +1,178 @@
+# Agentic Hamlet Demo
+
+## Generated Dramatic Scenes
+
+
+## Scene I — The Ghost reveals the wound
+
+_Objective: The Ghost tells Hamlet that Denmark is poisoned by murder and betrayal._
+
+**Ghost**:
+
+Słuchaj, synu. Czym jest to, co widzę? Niechaj cię ogarnia ta wiedza, zanim zgaśnie twoja wiara.
+
+Nie umarłem spokojnie. Zginąłem w straszliwym mroku, a ty, którego mi serce było bliskie, zostałeś zdradzony przez tych, których uważałeś za swoich. To nie była zwykła śmierć. To było zatrucie, zbrodnia i potworna zdrada, które spłynęły na ten kraj.
+
+Krew przelała się na bruk, a tron został skażony przez zdradę i grzech. Ten, który zasiada teraz na tronie, jest trucicielem. Całe Dania jest skażone. Wasza rodzina jest trucizną. Musisz to zrozumieć. Musisz wiedzieć, kto jest winny i jak odwrócić to okrutne zło. To jest powód, dla którego przybyłem.
+
+**Hamlet**:
+
+O, duchu, jakże ciężkie słowa te wbijają się w moje serce! Czyżby całe to królestwo, które wczoraj było cieniem mojego ojca, było tylko fasadą, skażoną trucizną? Zdrada i morderstwo... Czyż nie jest to gorsze niż śmierć samego króla?
+
+Wszystko, co widziałem, wszystko, co czułem, wydaje się teraz pyłem i cieniem, zmywanym przez tę ohydną prawdę. Czy to oznacza, że każdy oddech w zamku jest trucizną? Czy ta zdrada rozlała się tak głęboko, że nawet miłość i cnoty są tylko słodkim atramentem na gnijącym papierze?
+
+Co mam teraz zrobić z tą wiedzą? Czy mam wziąć miecz i zmierzyć się z tym złem, czy też tkwić w tym mroku, pozwalając, by rozkład trwał, a ja sam stawałem się kolejnym cieniem? Nie wiem. Po prostu nie wiem.
+
+
+## Scene II — Hamlet tests the King
+
+_Objective: Hamlet speaks with Claudius, hiding accusation beneath wit and grief._
+
+**Hamlet**:
+
+(Hamlet, stojąc przed Claudiuszem, jego głos jest chłodny, przesiąknięty żalem, ale ukryty pod warstwą cynicznej inteligencji.)
+
+"Ach, jakże słodkie jest to, co widzimy. Jakże piękna jest ta nowa korona, którą nosisz, obdarzona krwią, której nie zasługuje. Czyż nie jest to najdoskonalszy dowód na to, że zło ma w sobie najczystszy, najbardziej podstępny urok? Widzę w tobie nie tylko władcę, lecz cieniem, który przybrał szlachetne oblicze. Wszystko, co widzę, jest jak atrament, który spływa po gnijącym papierze – piękny, lecz obrzydliwy. Czyż nie jest to najgorsza zdrada? Że mrok zakrył światło, a miłość zamieniła się w truciznę? Nie wiem, czy żal jest wystarczającym orężem, by przebić tę fasadę, czy może tylko pogłębić tę otchłań. W tej ciszy, Panie, słyszę tylko szum rozkładu, a w nim, strasznie, słyszę prawdę."
+
+**Claudius**:
+
+Ach, Hamletie. Jakże ciężkie są te słowa, jakże gorzkie jest to, co słyszę. Niechaj cię nie przytłacza ta mroczna prawda, lecz pamiętaj, że los jest okrutny, a prawda często jest bardziej płynna niż stal. Czyż nie jest tak, że musimy zmierzyć się z tym, co się stało, bez możliwości odwrócenia koła czasu? Ja sam czuję ciężar tego tronu, a to, co działo się w przeszłości, jest jak cień, który nie chce ustąpić. Ból jest niezmierny, a odpowiedzialność... odpowiedzialność jest ciężarem, którego nie da się po prostu odrzucić. Musimy znaleźć drogę, choćby w tym chaosie, by przetrwać.
+
+
+## Scene III — The pressure rises
+
+_Objective: Hamlet resolves to turn suspicion into a theatrical trap._
+
+**Hamlet**:
+
+Cisza. Czyż to jest koniec? Czy ta wiedza, ten ciężar trucizny, który wlewa się w każdą żyłę królestwa, musi być jedynie cichym, gnijącym papierem, na którym piszę swe rozpaczy? Nie mogę działać po prostu. Jakże mam postawić czyn przeciwko czemuś tak wielkiemu i skażonemu?
+
+Lecz jeśli świat jest już skażony, a prawda jest trucizną, to może zbrodnia stanie się teatrem. Moje wątpliwości, te cienie, które nie potrafię wyśledzić, muszą stać się narzędziem. Pozwolę im rosnąć. Niech podejrzliwość stanie się zasłoną dymną. Niech ten mrok otoczy ich, a ja będę tym, co w nim dryfuje – nie działacz, lecz aktor w grze, gdzie zło jest scenografią. Może tylko w tej sztuce, w tej farsie, znajdę jeszcze jakąś formę sprawiedliwości.
+
+
+---
+
+## Narrator / State Updates
+
+
+### Narrator summary after Scene I — The Ghost reveals the wound
+
+**Podsumowanie sceny**
+
+**scene summary**
+Duch ujawnia Hamletowi, że śmierć króla Hamleta nie była naturalna, lecz wynikiem morderstwa i zdrady. Odkrywa, że tron i całe królestwo Danii są skażone trucizną, a obecny władca (Claudiusz) jest winny. Hamlet jest świadkiem tej okrutnej prawdy, która obala jego dotychczasowe postrzeganie rzeczywistości.
+
+**new facts learned**
+*   Król Hamlet zmarł w wyniku morderstwa i zatrucia.
+*   Claudiusz jest mordercą i trucicielem, który przejął tron.
+*   Całe królestwo Danii jest skażone grzechem i zdradą.
+*   Rodzina królewska jest źródłem tego zła.
+
+**emotional state changes**
+*   **Hamlet:** Przechodzi od głębokiego żalu i podejrzeń do egzystencjalnego rozpaczy i paraliżu. Jego poczucie rzeczywistości zostaje zburzone; wątpliwości i miłość stają się jedynie "słodkim atramentem na gnijącym papierze". Odczuwa przytłaczającą świadomość skali zła.
+
+**next dramatic pressure**
+Hamlet zostaje skonfrontowany z niemożliwym wyborem: czy zmierzyć się z okrutnym złem i podjąć działanie, czy też pozostać w mroku, akceptując rozkład, stając się kolejnym cieniem. Dramatyczna presja koncentruje się na konieczności podjęcia decyzji i przejściu od refleksji do działania.
+
+
+### Narrator summary after Scene II — Hamlet tests the King
+
+**podsumowanie sceny**
+
+**scene summary**
+Hamlet, w rozmowie z Claudiuszem, wyraża swoje głębokie poczucie zdrady i rozkładu moralnego, używając metafory o truciznie i gnijącym papierze, by opisać stan królestwa. Claudius odpowiada, akceptując ciężar odpowiedzialności i niemożność odwrócenia przeszłości, co podkreśla niemożność ucieczki od zła.
+
+**new facts learned**
+*   Prawda o morderstwie i skażeniu królestwa jest potwierdzona jako fundamentalny problem, który musi być zaakceptowany.
+*   Konflikt przenosi się z zewnętrznej prawdy (Duch) do wewnętrznego dylematu (Hamlet), gdzie zło jest przedstawione jako nieunikniony stan.
+*   Claudius przyjmuje rolę uwikłanego w ciężar winy władcy, co ustanawia go jako postać obciążoną moralnie.
+
+**emotional state changes**
+*   **Hamlet:** Jego żal i podejrzliwość przekształcają się w intelektualną, lecz przytłaczającą świadomość rozkładu. Przechodzi od emocjonalnego bólu do refleksji nad niemożnością działania w obliczu skali zła.
+*   **Claudius:** Odczuwa ciężar odpowiedzialności i beznadzieję. Jego reakcja jest mieszanką gorzkiej świadomości winy i poczucia uwięzienia w przeszłości.
+
+**next dramatic pressure**
+Konfrontacja z prawdą jest już zakończona; dramatyczna presja przenosi się na Hamletowskie dylematy dotyczące działania. Konieczność podjęcia decyzji, czy zmierzyć się z tym złem poprzez działanie, czy pozostać w mroku, staje się jeszcze bardziej pilna. Skupienie dramatu przesuwa się z odkrycia zła na jego konsekwencje i potencjalną drogę wyjścia z niego.
+
+
+### Narrator summary after Scene III — The pressure rises
+
+**podsumowanie sceny**
+
+**scene summary**
+Hamlet, skonfrontowany z niemożliwym dylematem działania w obliczu skażonego świata, odrzuca bezpośrednią konfrontację. Zamiast akceptować pasywną rozpaczy, postanawia przekształcić swoje wątpliwości i podejrzliwości w narzędzie. Decyduje się na strategię teatralną: pozwoli na rozkwit podejrzliwości, czyniąc z niej zasłonę dymną, a siebie – aktora w grze, gdzie zło jest scenografią.
+
+**new facts learned**
+*   Hamlet rezygnuje z bezpośredniego, natychmiastowego działania na rzecz manipulacji.
+*   Podejrzliwość i mrok, zamiast być źródłem paraliżu, stają się narzędziem strategicznym.
+*   Hamlet przyjmuje rolę obserwatora i manipulatora, używając pozorów do ukrycia prawdziwych intencji.
+*   Zło (zbrodnia) jest traktowane jako element scenografii, który może być wykorzystany do osiągnięcia celu.
+
+**emotional state changes**
+*   **Hamlet:** Przechodzi od egzystencjalnego rozpaczy i paraliżu do zimnej, cynicznej kalkulacji. Jego wewnętrzny ból zostaje zamieniony w chłodną strategię. Odczuwa poczucie, że musi grać rolę, aby przetrwać lub osiągnąć sprawiedliwość.
+*   **Zło/Mrok:** Zło przestaje być jedynie przytłaczającą rzeczywistością, a staje się elementem, który można kontrolować i wykorzystać.
+
+**next dramatic pressure**
+Dramatyczna presja koncentruje się na konsekwencjach przyjętej strategii. Hamlet musi teraz zmierzyć się z ryzykiem, jakie niesie za sobą manipulowanie i grę w mrok. Presja przenosi się na konieczność utrzymania tej iluzji, oraz na potencjalne ryzyko, że jego plan doprowadzi do jeszcze większego chaosu lub autodestrukcji. Konieczność podjęcia decyzji o tym, jak wykorzystać tę sztukę, staje się kluczowa.
+
+
+---
+
+## Final Memory State
+
+Old King Hamlet is dead. Claudius has taken the throne and married Gertrude. Hamlet is grieving, suspicious, and alienated from the court. The Ghost may reveal hidden truth, but its nature is uncertain.
+
+After Scene I — The Ghost reveals the wound:
+**Podsumowanie sceny**
+
+**scene summary**
+Duch ujawnia Hamletowi, że śmierć króla Hamleta nie była naturalna, lecz wynikiem morderstwa i zdrady. Odkrywa, że tron i całe królestwo Danii są skażone trucizną, a obecny władca (Claudiusz) jest winny. Hamlet jest świadkiem tej okrutnej prawdy, która obala jego dotychczasowe postrzeganie rzeczywistości.
+
+**new facts learned**
+*   Król Hamlet zmarł w wyniku morderstwa i zatrucia.
+*   Claudiusz jest mordercą i trucicielem, który przejął tron.
+*   Całe królestwo Danii jest skażone grzechem i zdradą.
+*   Rodzina królewska jest źródłem tego zła.
+
+**emotional state changes**
+*   **Hamlet:** Przechodzi od głębokiego żalu i podejrzeń do egzystencjalnego rozpaczy i paraliżu. Jego poczucie rzeczywistości zostaje zburzone; wątpliwości i miłość stają się jedynie "słodkim atramentem na gnijącym papierze". Odczuwa przytłaczającą świadomość skali zła.
+
+**next dramatic pressure**
+Hamlet zostaje skonfrontowany z niemożliwym wyborem: czy zmierzyć się z okrutnym złem i podjąć działanie, czy też pozostać w mroku, akceptując rozkład, stając się kolejnym cieniem. Dramatyczna presja koncentruje się na konieczności podjęcia decyzji i przejściu od refleksji do działania.
+
+After Scene II — Hamlet tests the King:
+**podsumowanie sceny**
+
+**scene summary**
+Hamlet, w rozmowie z Claudiuszem, wyraża swoje głębokie poczucie zdrady i rozkładu moralnego, używając metafory o truciznie i gnijącym papierze, by opisać stan królestwa. Claudius odpowiada, akceptując ciężar odpowiedzialności i niemożność odwrócenia przeszłości, co podkreśla niemożność ucieczki od zła.
+
+**new facts learned**
+*   Prawda o morderstwie i skażeniu królestwa jest potwierdzona jako fundamentalny problem, który musi być zaakceptowany.
+*   Konflikt przenosi się z zewnętrznej prawdy (Duch) do wewnętrznego dylematu (Hamlet), gdzie zło jest przedstawione jako nieunikniony stan.
+*   Claudius przyjmuje rolę uwikłanego w ciężar winy władcy, co ustanawia go jako postać obciążoną moralnie.
+
+**emotional state changes**
+*   **Hamlet:** Jego żal i podejrzliwość przekształcają się w intelektualną, lecz przytłaczającą świadomość rozkładu. Przechodzi od emocjonalnego bólu do refleksji nad niemożnością działania w obliczu skali zła.
+*   **Claudius:** Odczuwa ciężar odpowiedzialności i beznadzieję. Jego reakcja jest mieszanką gorzkiej świadomości winy i poczucia uwięzienia w przeszłości.
+
+**next dramatic pressure**
+Konfrontacja z prawdą jest już zakończona; dramatyczna presja przenosi się na Hamletowskie dylematy dotyczące działania. Konieczność podjęcia decyzji, czy zmierzyć się z tym złem poprzez działanie, czy pozostać w mroku, staje się jeszcze bardziej pilna. Skupienie dramatu przesuwa się z odkrycia zła na jego konsekwencje i potencjalną drogę wyjścia z niego.
+
+After Scene III — The pressure rises:
+**podsumowanie sceny**
+
+**scene summary**
+Hamlet, skonfrontowany z niemożliwym dylematem działania w obliczu skażonego świata, odrzuca bezpośrednią konfrontację. Zamiast akceptować pasywną rozpaczy, postanawia przekształcić swoje wątpliwości i podejrzliwości w narzędzie. Decyduje się na strategię teatralną: pozwoli na rozkwit podejrzliwości, czyniąc z niej zasłonę dymną, a siebie – aktora w grze, gdzie zło jest scenografią.
+
+**new facts learned**
+*   Hamlet rezygnuje z bezpośredniego, natychmiastowego działania na rzecz manipulacji.
+*   Podejrzliwość i mrok, zamiast być źródłem paraliżu, stają się narzędziem strategicznym.
+*   Hamlet przyjmuje rolę obserwatora i manipulatora, używając pozorów do ukrycia prawdziwych intencji.
+*   Zło (zbrodnia) jest traktowane jako element scenografii, który może być wykorzystany do osiągnięcia celu.
+
+**emotional state changes**
+*   **Hamlet:** Przechodzi od egzystencjalnego rozpaczy i paraliżu do zimnej, cynicznej kalkulacji. Jego wewnętrzny ból zostaje zamieniony w chłodną strategię. Odczuwa poczucie, że musi grać rolę, aby przetrwać lub osiągnąć sprawiedliwość.
+*   **Zło/Mrok:** Zło przestaje być jedynie przytłaczającą rzeczywistością, a staje się elementem, który można kontrolować i wykorzystać.
+
+**next dramatic pressure**
+Dramatyczna presja koncentruje się na konsekwencjach przyjętej strategii. Hamlet musi teraz zmierzyć się z ryzykiem, jakie niesie za sobą manipulowanie i grę w mrok. Presja przenosi się na konieczność utrzymania tej iluzji, oraz na potencjalne ryzyko, że jego plan doprowadzi do jeszcze większego chaosu lub autodestrukcji. Konieczność podjęcia decyzji o tym, jak wykorzystać tę sztukę, staje się kluczowa.
